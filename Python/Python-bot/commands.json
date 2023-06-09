@@ -1,0 +1,27 @@
+{
+    "prints": [
+      {"name": "helloworld", "description": "Prints \"Hello World!\""},
+      {"name": "creeper", "description": "Prints \"Creeper, Aww Man\""},
+      {"name": "whats9plus10", "description": "Prints \"21 :nerd:\""}
+    ],
+    "built-in lyrics": [
+      {"name": "low", "description": "Prints the lyrics of the song \"Low\""}
+    ],
+    "fun": [
+      {"name": "embedtest", "description": "Tests sending an embedded message"},
+      {"name": "nerd", "description": "Sends the :nerd: emoji"},
+      {"name": "sonothalal", "description": "Sends a GIF"}
+    ],
+    "math": [
+      {"name": "countto", "description": "Counts from 1 to x number"},
+      {"name": "fact", "description": "Calculates the factorial of a number"},
+      {"name": "oddoreven", "description": "Checks if a number is odd or even"},
+      {"name": "remainder", "description": "Calculates the remainder of two numbers"},
+      {"name": "rint", "description": "Chooses a random number between two given numbers"},
+      {"name": "tobinary", "description": "Converts a text string to binary"},
+      {"name": "fib", "description": "gives you the X th placement in the Fibonacci sequence"}
+    ],
+    "events": [
+        {"name": "skull", "description": "when someone types in \"Skull\" in any way it sends :skull:"}
+      ]
+  }
