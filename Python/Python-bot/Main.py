@@ -114,4 +114,4 @@ async def on_message(message):
         await message.channel.send(':skull:')
     await bot.process_commands(message)
     
-bot.run("MTA0NDY3Mjk2MDkyNzExMzMxNw.GTcmg_.E8dOiUAwX0aetZgSi9MMfUcZJN_J2hsFawl2SA")
+bot.run("BOT-TOKEN")
